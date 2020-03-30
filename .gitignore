@@ -23,6 +23,7 @@ target/
 /nbproject/private/
 /nbbuild/
 /dist/
+/dist/
 /nbdist/
 /.nb-gradle/
 build/
@@ -30,3 +31,4 @@ build/
 ### VS Code ###
 .vscode/
 /.mvn/
+/.mvn/wrapper/
